@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: 'cliente'
+  profiles:
+    active: 'h2'
+  cloud:
+    config:
+      uri: http://localhost:9090

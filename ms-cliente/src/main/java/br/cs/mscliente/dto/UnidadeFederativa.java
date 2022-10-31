@@ -1,4 +1,4 @@
-package br.localizacao.msendereco.modelo;
+package br.cs.mscliente.dto;
 
 public enum UnidadeFederativa {
     RO,
